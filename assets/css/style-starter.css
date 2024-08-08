@@ -21189,6 +21189,9 @@ body {
     display: flex;
     border-radius: 50px;
     height: var(--size);
+    position: relative;
+    right: 30px;
+    width: 130%;
     padding: 3px;
     background: rgba(212, 175, 55, 0.1)
    
