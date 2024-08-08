@@ -21205,9 +21205,23 @@ body {
     border: 0;
     background: rgba(212, 175, 55, 0.1)
     line-height: calc(var(--size) - 3px);
-    
 
+}
 
+.searchw3-icony {
+    color: var(--primary-color);
+    position: relative;
+    left: 10px;
+    width: 42px;
+    height: 42px;
+    background: var(--bg-color);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border: none;
+    outline: none;
 }
 
 
