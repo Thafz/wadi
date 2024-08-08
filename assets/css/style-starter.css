@@ -21184,13 +21184,11 @@ body {
 
 
 .searchbar5 {
-    --size: 40px;
+    --size: 50px;
     border: 2px solid var(--primary-color);
     display: flex;
     border-radius: 50px;
     height: var(--size);
-    position: relative;
-    right: 20px;;
     padding: 3px;
     background: rgba(212, 175, 55, 0.1)
    
@@ -21209,17 +21207,5 @@ body {
 
 }
 
-.searchbar5__submit {
-    position: relative;
-    left: 20px;
-    font-size: 0.9rem;
-    cursor: pointer;
-    border: 0;
-    background: transparent ;
-    border-radius: 50%;
-    background: var(--primary-color); 
-    width: calc(var(--size) - 10px);
-    height: calc(var(--size) - 10px);
-}
 
 
