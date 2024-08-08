@@ -18753,7 +18753,6 @@ a.dropdown-item.active {
     }
 
     .search-header input {
-
         padding: 12px 15px;
         color: var(--font-color);
     }
@@ -21178,5 +21177,39 @@ body {
 
 
 
+
+
+
+
+
+
+.searchbar5 {
+    --size: 40px;
+    border: 2px solid var(--primary-color);
+    display: flex;
+    border-radius: 50px;
+    height: var(--size);
+    padding: 3px;
+
+}
+
+.searchbar5__input {
+    flex-grow: 1;
+    font-size: 1.2rem;
+    padding: 0 0.5em;
+    border: 0;
+    background: transparent ;
+}
+
+.searchbar5__submit {
+    font-size: 0.9rem;
+    cursor: pointer;
+    border: 0;
+    background: transparent ;
+    border-radius: 50%;
+    background: var(--primary-color); 
+    width: calc(var(--size) - 10px);
+    height: calc(var(--size) - 10px);
+}
 
 
