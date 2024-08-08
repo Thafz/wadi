@@ -21191,7 +21191,7 @@ body {
     height: var(--size);
     width: 100%;
     padding: 3px;
-    background: rgba(212, 175, 55, 0.1)
+   
    
 
 }
@@ -21210,8 +21210,12 @@ body {
     color: var(--primary-color);
     width: 32px;
     height: 32px;
-    background: transparent ;
     border: none;
+    background: transparent ;
+    border-radius: 50%;
+    background: transparent;
+
+    
 
 }
 
