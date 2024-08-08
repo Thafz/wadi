@@ -21190,6 +21190,8 @@ body {
     border-radius: 50px;
     height: var(--size);
     padding: 3px;
+    background: rgba(212, 175, 55, 0.1)
+   
 
 }
 
@@ -21198,7 +21200,11 @@ body {
     font-size: 1.2rem;
     padding: 0 0.5em;
     border: 0;
-    background: transparent ;
+    background: rgba(212, 175, 55, 0.1)
+    line-height: calc(var(--size) - 3px);
+    
+
+
 }
 
 .searchbar5__submit {
