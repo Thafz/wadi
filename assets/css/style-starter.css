@@ -21196,7 +21196,6 @@ body {
 }
 
 .searchbar5__input {
-    flex-grow: 1;
     font-size: 1rem;
     padding: 0 0.5em;
     border: 0;
@@ -21208,7 +21207,7 @@ body {
 }
 
 .searchbar5__submit {
-    font-size: 0.9rem;
+    font-size: 1rem;
     cursor: pointer;
     border: 0;
     background: transparent ;
