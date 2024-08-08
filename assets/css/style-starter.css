@@ -21211,14 +21211,8 @@ body {
     width: 32px;
     height: 32px;
     background: transparent ;
-    border-radius: 50%;
-    border-color: transparent ;
-    -webkit-border-radius: 50%;
-    -o-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
     border: none;
-    outline: none;
+
 }
 
 
