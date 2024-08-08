@@ -21207,6 +21207,8 @@ body {
 }
 
 .searchw3-icony {
+    position: relative;
+    right: 3px;
     color: var(--primary-color);
     width: 32px;
     height: 32px;
