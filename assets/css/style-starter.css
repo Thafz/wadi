@@ -21133,10 +21133,13 @@ body {
     }
 
     .dots-container {
+        height: 10px;
         padding: 0px;
     }
 
     .dot {
+        position: relative;
+        bottom: 10px;        
         height: 5px;
         width: 5px;
     }
