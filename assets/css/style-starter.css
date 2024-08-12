@@ -21197,9 +21197,6 @@ body {
     height: var(--size);
     width: 100%;
     padding: 3px;
-   
-   
-
 }
 
 .searchbar5__input {
@@ -21209,7 +21206,6 @@ body {
     border: 0;
     background: rgba(212, 175, 55, 0.1);
     line-height: calc(var(--size) - 3px);
-
 }
 
 .searchw3-icony {
@@ -21222,10 +21218,7 @@ body {
     background: transparent ;
     border-radius: 50%;
     background: transparent;
-
 }
-
-
 
 
 
@@ -21234,10 +21227,6 @@ body {
 #myElement {
     display: none;
   }
-
-
-
-
 
   .w3l-formhnyxx {
     max-width: 600px;
